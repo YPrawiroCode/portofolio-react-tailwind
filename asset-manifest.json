@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portofolio-react-tailwind/static/css/main.02522f0f.css",
+    "main.js": "/portofolio-react-tailwind/static/js/main.e6fa2c10.js",
+    "index.html": "/portofolio-react-tailwind/index.html",
+    "main.02522f0f.css.map": "/portofolio-react-tailwind/static/css/main.02522f0f.css.map",
+    "main.e6fa2c10.js.map": "/portofolio-react-tailwind/static/js/main.e6fa2c10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02522f0f.css",
+    "static/js/main.e6fa2c10.js"
+  ]
+}
